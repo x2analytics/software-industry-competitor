@@ -8,7 +8,7 @@ input:
     software: the name of a software or a sub-category
     
 output:
-     a JSON file in JSON array format (called competitor.txt)
+     a JSON file in JSON array format (called industry_name.json)
 
 usage:
     python industry_name.py software
