@@ -1,6 +1,6 @@
 # Competitor Software Analaysis
 
-This program was created for users to enter a user-specified software tool to find competitive software tools based on their needs. The program retrieves the data and produces a result in JSON format to be presnted to the user in the front-end. 
+This program was created to help users find competitor software tools in the market by industry that may fit their needs, and to provide them an overall rating of the software review by industry. The program works by letting the user enter the name of a software tool. The program retrieves the data and produces a result in JSON format to be displayed in the front-end of a website.
 
 the program finds competitor software from two datasets
 
