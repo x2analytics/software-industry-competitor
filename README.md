@@ -11,4 +11,4 @@ output:
      a JSON file in JSON array format (called industry_name.json)
 
 usage:
-    python industry_name.py software
+    `python` `industry_name.py` `software`
